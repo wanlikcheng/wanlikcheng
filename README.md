@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - for markdown ctrl+k, v shows side by side in VSCode
 -->
 
-<h1 style="text-align:center">Hello, I'm Wanli (Kelvin) Cheng 👋</h1>
+<h1 align = "center">Hello, I'm Wanli (Kelvin) Cheng 👋</h1>
 
 <p align = "center">A graduate from Boston College majoring in Computer Science w/ minor in Finance </p>
 
