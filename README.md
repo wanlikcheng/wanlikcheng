@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 <h1 align = "center">Hello, I'm Wanli (Kelvin) Cheng 👋</h1>
 
-<p align = "center">A graduate from Boston College majoring in Computer Science w/ minor in Finance </p>
+<p align = "center">A graduate from Boston College majoring in Computer Science w/ a minor in Finance </p>
 
 About me:
 - 📍 Location: Southern California & Boston
-- 🌱 I’m interested in: The intersection between Data Science and Visualization
+- 🌱 I’m interested in: Bridging the concepts of Data Science and Visualization
 - 📫 Please reach me at: nivlek333@gmail.com or [LinkedIn](https://www.linkedin.com/in/wkcheng3/)
 - ⚡ Other interests: Outside of work, I enjoy playing tennis, basketball, and golf
 
