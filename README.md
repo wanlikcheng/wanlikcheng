@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 About me:
 - 📍 Location: Southern California & Boston
 - 🌱 I’m interested in: Bridging the concepts of Data Science and Visualization
-- 📫 Please reach me at: nivlek333@gmail.com or [LinkedIn](https://www.linkedin.com/in/wkcheng3/)
+- 📫 Please reach me at: kelvinwlcheng@gmail.com or [LinkedIn](https://www.linkedin.com/in/wkcheng3/)
 - ⚡ Other interests: Outside of work, I enjoy playing tennis, basketball, and golf
 
 
