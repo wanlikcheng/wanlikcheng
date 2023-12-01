@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h1 align = "center">Hello, I'm Wanli (Kelvin) Cheng 👋</h1>
 
-<p align = "center">A graduate from Boston College w/ a degree in Computer Science and a minor in Finance </p>
+<!-- <p align = "center">A graduate from Boston College w/ a degree in Computer Science and a minor in Finance </p> -->
 
 About me:
 - 📍 Location: Southern California & Boston
